@@ -82,3 +82,7 @@ week
 欢迎大家使用，同时也欢迎小伙伴们为这个仓库贡献一些其他有趣的 markdown snippet，欢迎你的 pr。
 
 Enjoy it!
+
+## Comments
+
+{% include comments.html %}
