@@ -23,6 +23,8 @@ type: page
 
 还有，学习是一个非常愉快的过程。共同加油！
 
+![](https://gw.alicdn.com/tfs/TB1G3F7u67nBKNjSZLeXXbxCFXa-617-255.png)
+
 * 2019.4.28 入职神盾局
 
 ## 联系我
