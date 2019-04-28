@@ -10,7 +10,10 @@ author: MingBu
 {:toc}
 
 ![](https://gw.alicdn.com/tfs/TB1yLBduDqWBKNjSZFAXXanSpXa-800-600.gif)
-![](../images/xuu.gif)
+
+
+
+![](./images/xuu.gif)
 
 ## 简介
 
