@@ -21,6 +21,8 @@ type: page
 
 很喜欢。
 
+最喜欢的歌：[告白气球](https://www.ximalaya.com/yinyue/5388936/25777148)
+
 还有，学习是一个非常愉快的过程。共同加油！
 
 ![](../images/xuexi.jpg)
