@@ -9,10 +9,6 @@ author: MingBu
 * content
 {:toc}
 
-![](https://gw.alicdn.com/tfs/TB1yLBduDqWBKNjSZFAXXanSpXa-800-600.gif)
-
-
-
 ![](images/xuu.gif)
 
 ## 简介
