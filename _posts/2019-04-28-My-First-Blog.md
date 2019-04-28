@@ -13,7 +13,7 @@ author: MingBu
 
 
 
-![](./images/xuu.gif)
+![](images/xuu.gif)
 
 ## 简介
 
