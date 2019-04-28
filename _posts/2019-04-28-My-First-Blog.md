@@ -9,7 +9,7 @@ author: MingBu
 * content
 {:toc}
 
-![](images/xuu.gif)
+![](https://moveofself.github.io/images/xuu.gif)
 
 ## 简介
 
