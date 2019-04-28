@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "从设计师和开发的角度使用 lottie"
+title:  "我的第一个Blog"
 categories: JavaScript
 tags: 动画 CSS airbnb lottie JavaScript
 author: MingBu
