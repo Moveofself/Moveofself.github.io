@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "百度云盘分享"
-categories: NetDisk
-tags: NetDisk
+categories: 百度云
+tags: 百度云
 author: MingBu
 ---
 
