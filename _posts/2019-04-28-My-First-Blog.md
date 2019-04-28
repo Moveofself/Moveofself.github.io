@@ -2,7 +2,7 @@
 layout: post
 title:  "我的第一个Blog"
 categories: JavaScript
-tags: JavaScript Html
+tags: JavaScript HTML
 author: MingBu
 ---
 
