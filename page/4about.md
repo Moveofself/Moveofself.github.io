@@ -33,7 +33,7 @@ type: page
 ## 联系我
 
 * GitHub：[MingBu](https://github.com/Moveofself)
-* Email：[15251707902@163.com](15251707902@163.com)
+* Email：15251707902@163.com
 * [Weibo](https://weibo.com/u/3579955585)
 * [Facebook](https://www.facebook.com/BookSiyi)
 * [Twitter](https://twitter.com/RememberOver)
