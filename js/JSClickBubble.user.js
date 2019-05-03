@@ -7,11 +7,11 @@
 // @include      /[a-zA-z]+://[^\s]*/
 // @run-at       document_start
 // ==/UserScript==
-onload = function() {
+onload = function () {
     var click_cnt = 0;
     var $html = document.getElementsByTagName("html")[0];
     var $body = document.getElementsByTagName("body")[0];
-    $html.onclick = function(e) {
+    $html.onclick = function (e) {
         var $elem = document.createElement("b");
         $elem.style.color = "#E94F06";
         $elem.style.zIndex = 9999;
@@ -59,28 +59,28 @@ onload = function() {
                 break;
         }*/
 
-        var a = new Array("😀","😃","😄","😁","😆","😅","😂","🤣","☺","😊","😚","😙","😗","😘","😍","😌","😉","🙃","🙂",
-        "😇","😋","😜","😝","😛","🤑","🤗","🤓","😎","🤡","🤠","😖","😣","☹","🙁","😕","😟","😔","😞","😒","😏","😫",
-        "😩","😤","😠","😡","😶","😐","😑","😯","😦","😥","😢","😨","😱","😳","😵","😲","😮","😧","🤤","😭","😪","😴",
-        "🙄","🤔","😬","🤥","🤐","💩","👿","😈","🤕","🤒","😷","🤧","🤢","👻","💀","☠","👽","❤","OωO","(๑•̀_•́๑)");
+        var a = new Array("😀", "😃", "😄", "😁", "😆", "😅", "😂", "🤣","😊", "😚", "😙", "😗", "😘", "😍", "😌", "😉", "🙃", "🙂",
+            "😇", "😋", "😜", "😝", "😛", "🤑", "🤗", "🤓", "😎", "🤡", "🤠", "😖", "😣", "☹", "🙁", "😕", "😟", "😔", "😞", "😒", "😏", "😫",
+            "😩", "😤", "😠", "😡", "😶", "😐", "😑", "😯", "😦", "😥", "😢", "😨", "😱", "😳", "😵", "😲", "😮", "😧", "🤤", "😭", "😪", "😴",
+            "🙄", "🤔", "😬", "🤥", "🤐", "💩", "👿", "😈", "🤕", "🤒", "😷", "🤧", "🤢", "👻", "💀",  "👽", "❤", "OωO", "(๑•̀_•́๑)");
         $elem.innerText = a[click_cnt];
-        click_cnt=Math.floor(Math.random()*a.length);
+        click_cnt = Math.floor(Math.random() * a.length);
         $elem.style.fontSize = 20 + "px";
         var increase = 0;
         var anim;
-        setTimeout(function() {
-        	anim = setInterval(function() {
-	            if (++increase == 150) {
-	                clearInterval(anim);
-			$body.removeChild($elem);
-	            }
-	            $elem.style.top = y - 20 - increase + "px";
-	            $elem.style.opacity = (150 - increase) / 120;
-	        }, 8);
+        setTimeout(function () {
+            anim = setInterval(function () {
+                if (++increase == 150) {
+                    clearInterval(anim);
+                    $body.removeChild($elem);
+                }
+                $elem.style.top = y - 20 - increase + "px";
+                $elem.style.opacity = (150 - increase) / 120;
+            }, 8);
         }, 70);
 
         //window.media = new Audio("http://lol.52pk.com/pifu/sounds/Tryndamere.mp3")
-		//document.documentElement.addEventListener('click',function(){media.play();});
+        //document.documentElement.addEventListener('click',function(){media.play();});
         $body.appendChild($elem);
     };
 };
