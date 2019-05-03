@@ -65,7 +65,7 @@ onload = function() {
         "🙄","🤔","😬","🤥","🤐","💩","👺","👹","👿","😈","🤕","🤒","😷","🤧","🤢","👻","💀","☠","👽","❤","OωO","(๑•̀_•́๑)");
         $elem.innerText = a[click_cnt];
         click_cnt=Math.floor(Math.random()*a.length);
-        $elem.style.fontSize = Math.random() * 10 + 10 + "px";
+        $elem.style.fontSize = Math.random() * 10 + 12 + "px";
         var increase = 0;
         var anim;
         setTimeout(function() {
