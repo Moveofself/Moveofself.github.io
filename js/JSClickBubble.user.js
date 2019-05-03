@@ -77,7 +77,7 @@ onload = function () {
                 $elem.style.top = y - 20 - increase + "px";
                 $elem.style.opacity = (150 - increase) / 120;
             }, 8);
-        }, 70);
+        }, 80);
 
         //window.media = new Audio("http://lol.52pk.com/pifu/sounds/Tryndamere.mp3")
         //document.documentElement.addEventListener('click',function(){media.play();});
