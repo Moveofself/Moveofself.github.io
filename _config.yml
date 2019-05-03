@@ -31,6 +31,16 @@ description_footer: 本站记录我学习的沿途风景！
 duoshuo_shortname: #bmblog
 disqus_shortname: mingbu
 
+valine:
+  enable: true
+  appid: G7E4ay3pItmja18NIppVxd60-gzGzoHsz
+  appkey: dQtfpJcQ4H3b3uMReyQKE2zY
+  notify: false # mail notifier , https://github.com/xCss/Valine/wiki
+  verify: false # Verification code
+  placeholder: ヾﾉ≧∀≦)o来啊，快活啊! 
+  guest_info: nick,mail,link
+  pageSize: 10
+
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
