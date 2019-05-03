@@ -62,7 +62,7 @@ onload = function() {
         var a = new Array("😀","😃","😄","😁","😆","😅","😂","🤣","☺","😊","😚","😙","😗","😘","😍","😌","😉","🙃","🙂",
         "😇","😋","😜","😝","😛","🤑","🤗","🤓","😎","🤡","🤠","😖","😣","☹","🙁","😕","😟","😔","😞","😒","😏","😫",
         "😩","😤","😠","😡","😶","😐","😑","😯","😦","😥","😢","😨","😱","😳","😵","😲","😮","😧","🤤","😭","😪","😴",
-        "🙄","🤔","😬","🤥","🤐","💩","👺","👹","👿","😈","🤕","🤒","😷","🤧","🤢","👻","💀","☠","👽","❤","OωO","(๑•̀_•́๑)");
+        "🙄","🤔","😬","🤥","🤐","💩","👿","😈","🤕","🤒","😷","🤧","🤢","👻","💀","☠","👽","❤","OωO","(๑•̀_•́๑)");
         $elem.innerText = a[click_cnt];
         click_cnt=Math.floor(Math.random()*a.length);
         $elem.style.fontSize = Math.random() * 10 + 12 + "px";
@@ -79,8 +79,8 @@ onload = function() {
 	        }, 8);
         }, 70);
 
-        window.media = new Audio("http://lol.52pk.com/pifu/sounds/Tryndamere.mp3")
-		document.documentElement.addEventListener('click',function(){media.play();});
+        //window.media = new Audio("http://lol.52pk.com/pifu/sounds/Tryndamere.mp3")
+		//document.documentElement.addEventListener('click',function(){media.play();});
         $body.appendChild($elem);
     };
 };
