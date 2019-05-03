@@ -31,10 +31,10 @@ description_footer: 本站记录我学习的沿途风景！
 duoshuo_shortname: #bmblog
 disqus_shortname: #mingbu
 
-valine:
+valine_comment:
   enable: true
-  appid: G7E4ay3pItmja18NIppVxd60-gzGzoHsz
-  appkey: dQtfpJcQ4H3b3uMReyQKE2zY
+  leancloud_appid: G7E4ay3pItmja18NIppVxd60-gzGzoHsz        # app_id
+  leancloud_appkey: dQtfpJcQ4H3b3uMReyQKE2zY              # app_key
   notify: false # mail notifier , https://github.com/xCss/Valine/wiki
   verify: false # Verification code
   placeholder: ヾﾉ≧∀≦)o来啊，快活啊! 
