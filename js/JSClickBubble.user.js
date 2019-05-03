@@ -61,7 +61,7 @@ onload = function() {
 
         var a = new Array("富强", "民主", "文明", "和谐", "自由", "平等", "公正" ,"法治", "爱国", "敬业", "诚信", "友善");
         $elem.innerText = a[click_cnt];
-        click_cnt=(click_cnt+1)%a.length;
+        click_cnt=Math.floor(Math.random()*a.length);
         $elem.style.fontSize = Math.random() * 10 + 10 + "px";
         var increase = 0;
         var anim;
