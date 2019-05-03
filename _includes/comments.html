@@ -52,8 +52,8 @@
 <script>
     new Valine({
         el: '#Comments',
-        appid: '{{ site.valine_comment.appid }} ',          //这里变量的取值在网站配置文件里_config.yml
-        appkey: '{{ site.valine_comment.appkey }}', //这里变量的取值在网站配置文件里_config.yml
+        app_id: '{{ site.valine_comment.appid }} ',          //这里变量的取值在网站配置文件里_config.yml
+        app_key: '{{ site.valine_comment.appkey }}', //这里变量的取值在网站配置文件里_config.yml
         placeholder:'{{ site.valine_comment.placeholder }} '   //这里变量的取值在网站配置文件里_config.yml
     });
 </script>
