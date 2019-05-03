@@ -22,7 +22,7 @@ onload = function() {
         $elem.style.left = (x - 10) + "px";
         $elem.style.top = (y - 20) + "px";
         clearInterval(anim);
-        switch (++click_cnt) {
+        /*switch (++click_cnt) {
             case 10:
                 $elem.innerText = "OωO";
                 break;
@@ -51,19 +51,18 @@ onload = function() {
                 $elem.innerText = "( ง ᵒ̌皿ᵒ̌)ง⁼³₌₃";
                 break;
             case 100:
-            case 101:
-            case 102:
-            case 103:
-            case 104:
-            case 105:
                 $elem.innerText = "(ꐦ°᷄д°᷅)";
                 break;
             default:
 		// 手动更换下面这行双引号里面的内容 如"😀"
                 $elem.innerText = "❤";
                 break;
-        }
-        $elem.style.fontSize = Math.random() * 10 + 8 + "px";
+        }*/
+
+        var a = new Array("富强", "民主", "文明", "和谐", "自由", "平等", "公正" ,"法治", "爱国", "敬业", "诚信", "友善");
+        $elem.innerText = a[click_cnt];
+        click_cnt=(click_cnt+1)%a.length;
+        $elem.style.fontSize = Math.random() * 10 + 10 + "px";
         var increase = 0;
         var anim;
         setTimeout(function() {
