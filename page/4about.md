@@ -11,7 +11,7 @@ type: page
 
 ## 关于我
 
-<iframe src="https://githubbadge.appspot.com/moveofself?s=1" style="border: 0;height: 195px;width: 300px;overflow: hidden;" frameBorder="0"></iframe>
+<iframe src="https://githubbadge.appspot.com/moveofself?s=1" style="border: 0;height: 156px;width: 220px;overflow: hidden;" frameBorder="0"></iframe>
 
 就职于神盾局，复仇者联盟。
 
@@ -23,7 +23,7 @@ type: page
 
 最喜欢的歌：[告白气球(Cover By 周二珂)](https://www.ximalaya.com/yinyue/5388936/25777148)
            [下载地址](http://www.170mv.com/kw/other.web.rh01.sycdn.kuwo.cn/resource/n3/34/68/647475498.mp3)
-           \
+           And 
            [只对你有感觉(飞轮海 & 田馥甄)](https://music.163.com/#/song?id=354620)
            [下载地址](http://other.web.ra01.sycdn.kuwo.cn/resource/n1/128/94/32/1839164098.mp3)
 
