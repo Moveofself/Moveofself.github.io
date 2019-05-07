@@ -6,6 +6,7 @@
 // @author       一碗单炒饭
 // @include      /[a-zA-z]+://[^\s]*/
 // @run-at       document_start
+// @attention    Chrome 与 IE 浏览器不支持 Emoji。        
 // ==/UserScript==
 onload = function () {
     var click_cnt = 0;
