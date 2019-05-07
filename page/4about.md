@@ -23,6 +23,8 @@ type: page
 
 最喜欢的歌：[告白气球(Cover By 周二珂)](https://www.ximalaya.com/yinyue/5388936/25777148)
            [下载地址](http://www.170mv.com/kw/other.web.rh01.sycdn.kuwo.cn/resource/n3/34/68/647475498.mp3)
+           [只对你有感觉(飞轮海 & 田馥甄)](https://music.163.com/#/song?id=354620)
+           [下载地址](http://other.web.ra01.sycdn.kuwo.cn/resource/n1/128/94/32/1839164098.mp3)
 
 还有，学习是一个非常愉快的过程。共同加油！
 
@@ -92,7 +94,7 @@ type: page
 
 ## 友情链接
 
-[羡辙杂俎](http://zhangwenli.com/blog) \| [Anotherhome](https://www.anotherhome.net)
+[Kindle资源](https://book.shuyuzhe.com/) \| [电影天堂](https://www.dy2018.com/) \| [脚本之家](https://www.jb51.net/)    
 
 ## Comments
 
