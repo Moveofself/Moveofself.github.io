@@ -11,7 +11,7 @@ type: page
 
 ## 关于我
 
-<iframe src="https://githubbadge.appspot.com/moveofself?s=1" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
+<iframe src="https://githubbadge.appspot.com/moveofself?s=1" style="border: 0;height: 195px;width: 300px;overflow: hidden;" frameBorder="0"></iframe>
 
 就职于神盾局，复仇者联盟。
 
@@ -48,6 +48,12 @@ type: page
 ~欢迎使用~
 
 欢迎大家提一些对本站主题的建议，可以直接在下面留言或者新建一个 [Issue](https://github.com/Moveofself/Moveofself.github.io/issues)。
+
+
+## 友情链接
+
+[Kindle资源](https://book.shuyuzhe.com/) \| [电影天堂](https://www.dy2018.com/) \| [脚本之家](https://www.jb51.net/) 
+
 
 ### Update Log
 
@@ -92,9 +98,7 @@ type: page
 * 2016.3-2016.4 进行了一次大的改版和重构，详见 [README](https://github.com/Gaohaoyang/gaohaoyang.github.io/blob/master/README.md) 和博文 [对这个 jekyll 博客主题的改版和重构](http://gaohaoyang.github.io/2016/03/12/jekyll-theme-version-2.0/)
 * 2015.3-2015.4 完成了这个博客主题的第一版。
 
-## 友情链接
-
-[Kindle资源](https://book.shuyuzhe.com/) \| [电影天堂](https://www.dy2018.com/) \| [脚本之家](https://www.jb51.net/)    
+   
 
 ## Comments
 
