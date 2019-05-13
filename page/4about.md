@@ -21,6 +21,11 @@ type: page
 
 很喜欢**。
 
+**星座名称：射手座**
+**英文名称：Sagittarius**
+**优点：无**
+**缺点：没有优点**
+
 最喜欢的歌：[告白气球(Cover By 周二珂)](https://www.ximalaya.com/yinyue/5388936/25777148)
            [下载地址](http://www.170mv.com/kw/other.web.rh01.sycdn.kuwo.cn/resource/n3/34/68/647475498.mp3)
            And 
@@ -41,6 +46,9 @@ type: page
 * [Facebook](https://www.facebook.com/BookSiyi)
 * [Twitter](https://twitter.com/RememberOver)
 * [网易云主页](https://music.163.com/#/user/home?id=247197361)
+
+* 不正经的联系方式：
+![](../images/20190513194210.jpg)
 
 ## 关于本站
 
