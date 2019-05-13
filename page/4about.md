@@ -48,7 +48,7 @@ type: page
 
 * GitHub：[MingBu](https://github.com/Moveofself)
 * Email：15251707902@163.com
-* [Weibo](https://weibo.com/u/3579955585)
+* [Weibo](http://weibo.com/FlyingSelf)
 * [Facebook](https://www.facebook.com/BookSiyi)
 * [Twitter](https://twitter.com/RememberOver)
 * [网易云主页](https://music.163.com/#/user/home?id=247197361)
