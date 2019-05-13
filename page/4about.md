@@ -34,6 +34,9 @@ type: page
            And 
            [只对你有感觉(飞轮海 & 田馥甄)](https://music.163.com/#/song?id=354620)
            [下载地址](http://other.web.ra01.sycdn.kuwo.cn/resource/n1/128/94/32/1839164098.mp3)
+           And
+           [What Makes You Beautiful](https://music.163.com/#/song?id=17753288&autoplay=true&market=baiduhd)
+           [下载地址](http://rb01.sycdn.kuwo.cn/resource/n3/60/68/3176473143.mp3)
 
 还有，学习是一个非常愉快的过程。共同加油！
 
