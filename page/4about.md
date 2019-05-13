@@ -22,8 +22,11 @@ type: page
 很喜欢**。
 
 **星座名称：射手座**
+
 **英文名称：Sagittarius**
+
 **优点：无**
+
 **缺点：没有优点**
 
 最喜欢的歌：[告白气球(Cover By 周二珂)](https://www.ximalaya.com/yinyue/5388936/25777148)
