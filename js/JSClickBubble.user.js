@@ -10,6 +10,31 @@
 // ==/UserScript==
 onload = function () {
     var click_cnt = 0;
+
+    var myDate = new Date();
+    //myDate.toLocaleDateString()；//可以获取当前日期
+    //myDate.toLocaleTimeString(); //可以获取当前时间
+
+    //myDate.getYear(); //获取当前年份(2位)
+    //myDate.getFullYear(); //获取完整的年份(4位,1970-????)
+    //myDate.getMonth(); //获取当前月份(0-11,0代表1月)
+    var a=myDate.getDate(); //获取当前日(1-31)
+    var myAuto1 = document.getElementById('bgmMusic1');
+    var myAuto2 = document.getElementById('bgmMusic2');
+    
+    if (a%2==0)
+    {
+        myAuto2.preload = auto;
+        myAuto2.loop=true;
+        myAuto2.play();   
+    } 
+    else
+    {
+        myAuto1.preload = auto;
+        myAuto1.loop=true;
+        myAuto1.play();
+    }
+
     var $html = document.getElementsByTagName("html")[0];
     var $body = document.getElementsByTagName("body")[0];
     $html.onclick = function (e) {
