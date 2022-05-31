@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Shawlon`s Blog
-subtitle: Yshawlon
-description: C++ | LeetCode | Algorithm 
+title: Ming`s Blog
+subtitle: Ming
+description: C# | LeetCode | C++ | AI | DateBase
 keywords: "被动学习"
-author: Tyzhao
+author: Ming
 language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://www.yshawlon.cn
+url: https://moveofself.github.io/
 root: /
 permalink: :title.html
 permalink_defaults:
@@ -113,7 +113,7 @@ theme: matery
 deploy:
 - type: git
   repository:
-    github: git@github.com:MUYIio/MUYIio.github.io.git
+    github: git@github.com:Moveofself/Moveofself.github.io.git
     coding: 
     #gitee: 
     #repo: root@118.25.27.52 :/home/git/blog.git
